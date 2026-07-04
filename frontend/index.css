@@ -15,8 +15,10 @@ h1{
     color: blue;
 }
 #nav{
+    display: flex;
+    gap: 20px;
     text-align: center;
-    background: brown;
+    background: red;
     height: 25px;
     padding-top: 5px;
     margin-bottom: 5px;
